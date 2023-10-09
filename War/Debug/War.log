@@ -1,0 +1,16 @@
+﻿  Source.c
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(285,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(310,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(325,61): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(325,61): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(439,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(477,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(486,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(487,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(488,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(494,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(499,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(502,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(511,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\LENOVO\OneDrive - GMIT\War\War\Source.c(573,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  War.vcxproj -> C:\Users\LENOVO\OneDrive - GMIT\War\Debug\War.exe
